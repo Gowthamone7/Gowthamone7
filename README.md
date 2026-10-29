@@ -100,12 +100,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Gowthamone7/DevGO"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=DevGO&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/traffic-prediction-system"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=traffic-prediction-system&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=Hair-Skin-Clinic-Booking&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/ecom-application"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=ecom-application&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/Automl"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=Automl&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=Agile_Scrum_Master&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/DevGO"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/DevGO.svg" alt="DevGO" /></a>
+<a href="https://github.com/Gowthamone7/traffic-prediction-system"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/traffic-prediction-system.svg" alt="traffic-prediction-system" /></a>
+<a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/Hair-Skin-Clinic-Booking.svg" alt="Hair-Skin-Clinic-Booking" /></a>
+<a href="https://github.com/Gowthamone7/ecom-application"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/ecom-application.svg" alt="ecom-application" /></a>
+<a href="https://github.com/Gowthamone7/Automl"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/Automl.svg" alt="Automl" /></a>
+<a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/Agile_Scrum_Master.svg" alt="Agile_Scrum_Master" /></a>
 
 </div>
 
