@@ -27,7 +27,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="coding" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/coding.svg" alt="coding terminal animation" />
 
 🔭 I'm building projects using **Java, Python, JavaScript**, and modern backend technologies.
 
@@ -100,12 +100,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Gowthamone7/DevGO"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gowthamone7&repo=DevGO&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/traffic-prediction-system"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gowthamone7&repo=traffic-prediction-system&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gowthamone7&repo=Hair-Skin-Clinic-Booking&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/ecom-application"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gowthamone7&repo=ecom-application&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/Automl"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gowthamone7&repo=Automl&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gowthamone7&repo=Agile_Scrum_Master&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/DevGO"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=DevGO&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/traffic-prediction-system"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=traffic-prediction-system&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=Hair-Skin-Clinic-Booking&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/ecom-application"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=ecom-application&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/Automl"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=Automl&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img width="48%" src="https://github-readme-stats.shiono.dev/api/pin/?username=Gowthamone7&repo=Agile_Scrum_Master&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 
 </div>
 
@@ -115,12 +115,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gowthamone7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamone7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" />
+<img height="180" src="https://github-readme-stats.shiono.dev/api?username=Gowthamone7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" />
+<img height="180" src="https://github-readme-stats.shiono.dev/api/top-langs/?username=Gowthamone7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" />
 
 <img src="https://streak-stats.demolab.com/?user=Gowthamone7&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowthamone7&theme=tokyo-night&hide_border=true&area=true&custom_title=Gowtham%27s%20Contribution%20Graph" width="100%" />
 
 </div>
 
