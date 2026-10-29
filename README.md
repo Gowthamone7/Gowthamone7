@@ -2,7 +2,7 @@
 
 # Hey, I'm Gowtham KC! 👋🐉
 
-### Computer Science Student | Developer | AI & Data Science Enthusiast
+### Computer Science Student | Software Developer | AI Automation Testing Enthusiast
 
 *Building projects, solving problems, and exploring the possibilities of AI.*
 
