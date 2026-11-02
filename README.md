@@ -1,5 +1,5 @@
 <!-- ===== ANIMATED HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Gowtham%20KC&fontSize=70&fontColor=36BCF7&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%40%20REVA%20University%20%7C%20Class%20of%202027&descSize=20&descColor=ffffff&descAlignY=60" alt="header" />
+<img width="100%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/banner.svg" alt="Gowtham KC banner" />
 
 <div align="center">
 
@@ -100,12 +100,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Gowthamone7/DevGO"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/DevGO.svg" alt="DevGO" /></a>
-<a href="https://github.com/Gowthamone7/traffic-prediction-system"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/traffic-prediction-system.svg" alt="traffic-prediction-system" /></a>
-<a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/Hair-Skin-Clinic-Booking.svg" alt="Hair-Skin-Clinic-Booking" /></a>
-<a href="https://github.com/Gowthamone7/ecom-application"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/ecom-application.svg" alt="ecom-application" /></a>
-<a href="https://github.com/Gowthamone7/Automl"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/Automl.svg" alt="Automl" /></a>
-<a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/projects/Agile_Scrum_Master.svg" alt="Agile_Scrum_Master" /></a>
+<a href="https://github.com/Gowthamone7/DevGO"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/DevGO.svg" alt="DevGO" /></a>
+<a href="https://github.com/Gowthamone7/traffic-prediction-system"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/traffic-prediction-system.svg" alt="traffic-prediction-system" /></a>
+<a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/Hair-Skin-Clinic-Booking.svg" alt="Hair-Skin-Clinic-Booking" /></a>
+<a href="https://github.com/Gowthamone7/ecom-application"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/ecom-application.svg" alt="ecom-application" /></a>
+<a href="https://github.com/Gowthamone7/Automl"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/Automl.svg" alt="Automl" /></a>
+<a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img width="48%" src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/Agile_Scrum_Master.svg" alt="Agile_Scrum_Master" /></a>
 
 </div>
 
@@ -114,9 +114,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.shiono.dev/api?username=Gowthamone7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.shiono.dev/api/top-langs/?username=Gowthamone7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" />
 
 <img src="https://streak-stats.demolab.com/?user=Gowthamone7&theme=tokyonight&hide_border=true&border_radius=12" />
 
