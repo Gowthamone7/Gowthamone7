@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/header.svg" width="100%" alt="Gowtham KC"/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/header.svg" width="100%" alt="Gowtham KC"/>
 
 <br/>
 
@@ -14,11 +14,11 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/terminal.svg" width="85%" alt="terminal"/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/terminal.svg" width="85%" alt="terminal"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">⚡ // WHAT I'M UP TO</h2>
 
@@ -38,34 +38,34 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🧰 // TECH STACK</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/skills.svg" width="100%" alt="skills"/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/skills.svg" width="100%" alt="skills"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🚀 // FEATURED PROJECTS</h2>
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/Gowthamone7/DevGO"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/card1.svg" width="100%" alt="DevGO"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/Gowthamone7/traffic-prediction-system"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/card2.svg" width="100%" alt="traffic-prediction-system"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/Gowthamone7/DevGO"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/card1.svg" width="100%" alt="DevGO"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/Gowthamone7/traffic-prediction-system"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/card2.svg" width="100%" alt="traffic-prediction-system"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/card3.svg" width="100%" alt="Hair-Skin-Clinic-Booking"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/Gowthamone7/ecom-application"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/card4.svg" width="100%" alt="ecom-application"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/Gowthamone7/Hair-Skin-Clinic-Booking"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/card3.svg" width="100%" alt="Hair-Skin-Clinic-Booking"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/Gowthamone7/ecom-application"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/card4.svg" width="100%" alt="ecom-application"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/Gowthamone7/Automl"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/card5.svg" width="100%" alt="Automl"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/card6.svg" width="100%" alt="Agile_Scrum_Master"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/Gowthamone7/Automl"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/card5.svg" width="100%" alt="Automl"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/Gowthamone7/Agile_Scrum_Master"><img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/card6.svg" width="100%" alt="Agile_Scrum_Master"/></a></td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">📊 // LIVE STATS</h2>
 
@@ -82,7 +82,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">🐍 // CONTRIBUTION SNAKE</h2>
 
@@ -93,5 +93,5 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/assets/footer.svg" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/Gowthamone7/Gowthamone7/main/footer.svg" width="100%" alt="footer"/>
 </div>
