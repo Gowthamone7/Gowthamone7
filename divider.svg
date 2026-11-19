@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="1000" height="40">
+<defs><linearGradient id="n" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#00F5D4"/><stop offset="0.5" stop-color="#FF006E"/><stop offset="1" stop-color="#8338EC"/></linearGradient>
+<filter id="gl" x="-5%" y="-100%" width="110%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M0 20 H210 L222 20 L232 4 L244 36 L254 12 L262 20 H470 L482 20 L492 2 L504 38 L514 10 L522 20 H730 L742 20 L752 4 L764 36 L774 12 L782 20 H1000" fill="none" stroke="url(#n)" stroke-width="1.5" opacity="0.25"/>
+<path d="M0 20 H210 L222 20 L232 4 L244 36 L254 12 L262 20 H470 L482 20 L492 2 L504 38 L514 10 L522 20 H730 L742 20 L752 4 L764 36 L774 12 L782 20 H1000" fill="none" stroke="url(#n)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1000" stroke-dasharray="110 890" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="110;-1000" dur="3.2s" repeatCount="indefinite"/></path>
+</svg>
