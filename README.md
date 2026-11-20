@@ -24,7 +24,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="33%">🔭<br/><b>BUILDING</b><br/><sub>Java, Python, JS &amp;<br/>modern backend tech</sub></td>
+<td align="center" width="33%">🔭<br/><b>BUILDING</b><br/><sub>Java,JS &amp;<br/>modern backend tech</sub></td>
 <td align="center" width="33%">🤖<br/><b>EXPLORING</b><br/><sub>AI automation testing &amp;<br/>software quality engineering</sub></td>
 <td align="center" width="33%">🌱<br/><b>LEARNING</b><br/><sub>Test frameworks, API testing<br/>&amp; scalable architecture</sub></td>
 </tr>
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-💬 Ask me about **Java · Python · SQL · REST APIs · Backend**
+💬 Ask me about **Java · SQL · REST APIs · Backend**
 
 👯 Open to collaborate on **AI-driven testing, backend engineering & automation**
 
